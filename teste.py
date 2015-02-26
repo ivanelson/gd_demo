@@ -1,5 +1,5 @@
 #-*- encoding: utf-8 -*-
-
+__author__ = 'ivanelson'
 
 for i in range(100):
     if i % 2 == 0: print "eh par: %s" % i
@@ -11,3 +11,7 @@ import subprocess
 subprocess.call(['echo','oi',shell=True])
 
 import random
+
+"""
+ docstrings
+"""
