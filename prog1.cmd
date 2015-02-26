@@ -1,3 +1,5 @@
+on deadlock
+endon
 find 1 cliente
 out "achei: ",$setcount
 
