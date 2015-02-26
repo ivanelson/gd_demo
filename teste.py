@@ -9,3 +9,5 @@ import this
 import subprocess
 
 subprocess.call(['echo','oi',shell=True])
+
+import random
