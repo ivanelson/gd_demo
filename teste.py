@@ -36,3 +36,7 @@ import sys
 """
   So pra testar se minha chave ssh funcionou
 """
+
+"""
+  SSH-key nao funcionou no primeiro testes...try again
+"""
