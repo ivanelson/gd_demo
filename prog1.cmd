@@ -8,3 +8,5 @@ out "achei: ",$setcount
 
 % postgres-to-zim #troll
 
+% teste de rebase <> merge
+
