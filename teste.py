@@ -26,3 +26,9 @@ import sys
 """
    vou testar agora merge e rebase
 """
+
+"""
+  Vou testar, primeiro empurrar pra master no remoto
+  e depois entar fazer o merge em outro repo local
+  a partir de origin/master e ver no que da..
+"""
