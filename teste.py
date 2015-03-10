@@ -36,3 +36,8 @@ import sys
 """
   So pra testar se minha chave ssh funcionou
 """
+
+"""
+   %teste de diff entre o local e o remoto.
+   git diff origin/master
+"""
